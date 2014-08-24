@@ -10,6 +10,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 - The data was set with descriptive variable names as provided in the original data set
 - The final data set lists the subject, activity, and the average of each variable accordingly 
 
+data.txt
 	field_name	type	width	min	max						
 1	tBodyAcc-mean()-X	numeric	122843	-1	1						
 2	tBodyAcc-mean()-Y	numeric	143643	-1	1						
