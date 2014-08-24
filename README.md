@@ -4,6 +4,7 @@ GettingandCleaningData-CourseProject
 The repository includes the following files:
 =========================================
 - 'README.md'
-- 'CODEBOOK.txt
+- 'CodeBook.md
 - 'run_analysis.R'
+- 'data.txt'
 
